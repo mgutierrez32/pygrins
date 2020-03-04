@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages 
+
+setup(
+    name = 'pygrins',
+    packages = find_packages(include=['pygrins', 'pygrins.*']), # this must be the same as the name above
+    version = '0.0.1.dev1',
+    description = 'Spectral Line Parameter Calculator with emphasis on IGRINS data',
+    author = 'Miguel Gutierrez',
+    author_email = 'ggmiguel98@gmail.com',
+    #license='MIT',
+    url = 'https://github.com/mgutierrez32/pygrins',
+    python_requires='>=3',                             
+)

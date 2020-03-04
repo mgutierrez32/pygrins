@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: pygrins
+Version: 0.0.1.dev1
+Summary: Spectral Line Parameter Calculator with emphasis on IGRINS data
+Home-page: https://github.com/mgutierrez32/pygrins
+Author: Miguel Gutierrez
+Author-email: ggmiguel98@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
